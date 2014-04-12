@@ -6,7 +6,7 @@ sys.path.append('.')
 from pelicanconf import *
 
 #SITEURL = 'http://www.vegasfur.com'
-SITEURL = 'http://yanjun-liu.github.no'
+SITEURL = 'http://yanjun-liu.github.io'
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
