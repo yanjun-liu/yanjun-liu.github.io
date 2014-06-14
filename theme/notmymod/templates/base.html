@@ -41,6 +41,7 @@
                 {% for cat, null in categories %}
                     <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
+				<li><a href="{{ SITEURL }}/res/cv.pdf">CV</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
         {% block content %}

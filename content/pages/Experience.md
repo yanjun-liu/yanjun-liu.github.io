@@ -3,9 +3,15 @@ slug: experience
 
 ## Software Engineer at SuperOffice AS
 
+Jan 2014 — Jun 2014, Operation Centre Team, Oslo, Norway
+
+SuperOffice AS provides a CRM (Customer Relationship Management) product based on .NET Framework. Our team is in charge of developing the platform for managing CRM instances hosted in cloud (the Visma cloud), supporting provisioning, upgrading/downgrading, backup and environment diagnostics. Its user interface is based on JQuery and Razor view helper. My own tasks included:
+-  Development of new features: customer environment checking, organization and paging of server logs, and customer backup.
+- Refactoring of the diagnostic windows services based on the design pattern of Supervisor, Scheduler and Agent.
+- Redesign and implementation of the UIs for several components such as diagnostics, tasks on customer instances and the menu.
+
 ## Software Engineer / Development Team Leader at YonYou
 
-**UFIDA**,
 July 2009 - January 2012 (2 years 7 months)Beijing City, China
 
 Design and development for several core functions of the CRM (Customer Relationship Management) system. The system follows the MVC architecture style, constructed upon Apache, PHP, and optional databases from MSSQL, ORACLE, and MYSQL. Its user Interface is based on the Ext-js framework on JavaScript.
@@ -18,7 +24,6 @@ Design and development for several core functions of the CRM (Customer Relations
 
 ## Software Engineer at WSDOM
 
-**WSDOM**,
 April 2006 - May 2009 (3 years 2 months)
 
 Be in charge of the development of the user interface and message communication for a network-flow-control-equipment called WATM. It runs on Linux-based routers, with a web-based user interface constructed upon Apache and PHP. The message communication is between its user interface and the Linux kernel.
