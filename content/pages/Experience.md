@@ -3,7 +3,7 @@ slug: experience
 
 ## Software Engineer at SuperOffice AS
 
-Jan 2014 — Jun 2014, Operation Centre Team, Oslo, Norway
+Jan 2014 — present, Operation Centre Team, Oslo, Norway
 
 SuperOffice AS provides a CRM (Customer Relationship Management) product based on .NET Framework. Our team is in charge of developing the platform for managing CRM instances hosted in cloud (the Visma cloud), supporting provisioning, upgrading/downgrading, backup and environment diagnostics. Its user interface is based on JQuery and Razor view helper. My own tasks included:
 -  Development of new features: customer environment checking, organization and paging of server logs, and customer backup.
